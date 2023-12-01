@@ -37,13 +37,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Mvvm.v23.1" />
-    <Reference Include="DevExpress.Data.Desktop.v23.1" />
-    <Reference Include="DevExpress.Data.v23.1" />
-    <Reference Include="DevExpress.Printing.v23.1.Core" />
-    <Reference Include="DevExpress.Xpf.Core.v23.1" />
-    <Reference Include="DevExpress.Xpf.Themes.Office2019Colorful.v23.1" />
-    <Reference Include="DevExpress.Drawing.v23.1" />
+    <Reference Include="DevExpress.Mvvm.v22.2" />
+    <Reference Include="DevExpress.Data.Desktop.v22.2" />
+    <Reference Include="DevExpress.Data.v22.2" />
+    <Reference Include="DevExpress.Printing.v22.2.Core" />
+    <Reference Include="DevExpress.Xpf.Core.v22.2" />
+    <Reference Include="DevExpress.Xpf.Themes.Office2019Colorful.v22.2" />
+    <Reference Include="DevExpress.Drawing.v22.2" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
